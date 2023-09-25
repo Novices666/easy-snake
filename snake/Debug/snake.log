@@ -1,0 +1,8 @@
+﻿生成启动时间为 2022/6/11 18:03:28。
+     1>项目“F:\2021软件程序设计任务书\snake\snake\snake\snake.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.Cpp.Platform.targets(57,5): error MSB8020: The build tools for v142 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, please install v142 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+     1>已完成生成项目“F:\2021软件程序设计任务书\snake\snake\snake\snake.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.10
